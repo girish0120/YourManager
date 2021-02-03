@@ -58,7 +58,7 @@
 <head>
 				<h3>Premium</h3>
 				<body>
-								<p>We have limited resources to run the bot and running the bot with limited resources wouldn't last long so you join the premium plan of YourManager by donating just a little amount towards YourManager and getting a premium bot with a lot more features and a seperately displayed role in the server. I hope you would like to be a contributor towards this project and help run the basic as well as premium bot smoothly. Join our server today to know more about premium link: https://discord.gg/nyrtdtf</p>
+								<p>We have limited resources to run the bot and running the bot with limited resources wouldn't last long so you join the premium plan of YourManager by donating just a little amount towards YourManager and getting a premium bot with a lot more features and a seperately displayed role in the server. I hope you would like to be a contributor towards this project and help run the basic as well as premium bot smoothly. Join our server today to know more about premium <br> link: https://discord.gg/nyrtdtf</p>
 				</body>
 </head>
 </html>
