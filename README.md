@@ -41,18 +41,24 @@
 								<p>To change any value of any custom just run config command and move forward by reacting on ▶️ emote. 1 page is information, 2nd page is General settings, 3page starts with custom 1 settings and as you move on with ▶️ the 4th page will be custom 2 settings and so on.</p>
 								<p><b>{prefix}reserveslot {custom_number}</b></p>
 								<p>Do not include brackets { } and there will be a gap between reserveslot and {custom_number}. For example: {prefix}reserveslot 1 <br> This command is used to reserveslots in a custom.</p>
-								<p><b>{prefix}start</b></p>
+								<p><b>{prefix}start{custom_number}</b></p>
 								<p>Do not include brackets { } and there will be no gap in between start and {custom_number}. For example: {prefix}start1 <br> This command will start the regestration of the custom number you mention.</p>
-								<p><b>{prefix}close</b></p>
+								<p><b>{prefix}close{custom_number}</b></p>
 								<p>Do not include brackets { } and there will be no gap in between close and {custom_number}. For example: {prefix}close1 <br> This command will close the regestration of the custom number you provided.</p>
-								<p><b>{prefix}slotchange</b></p>
+								<p><b>{prefix}slotchange {custom_number}</b></p>
 								<p>Do not include brackets { } and there will be a gap between slotchange and {custom_number}. For example: {prefix}slotchange 1 <br> This command is used to change a team from a slot of an specific custom. Remember to use {prefix}repost {custom_number} to repost the slotlist after changing the slots</p>
-								<p><b>{prefix}repost</b></p>
+								<p><b>{prefix}repost {custom_number}</b></p>
 								<p>Do not include brackets { } and there will be a gap between repost and {custom_number}. For example: {prefix}repost 1 <br> This command is used to repost the slotlist in the slotlist channel.</p>
 								<p><strong>• Information</strong></p>
 								Commands that contains helpful information about the bot.
 								<p><b>{prefix}help</b></p>
 								<p><b>{prefix}ping</b></p>
+				</body>
+</head>
+<head>
+				<h3>Premium</h3>
+				<body>
+								<p>We have limited resources to run the bot and running the bot with limited resources wouldn't last long so you join the premium plan of YourManager by donating just a little amount towards YourManager and getting a premium bot with a lot more features and a seperately displayed role in the server. I hope you would like to be a contributor towards this project and help run the basic as well as premium bot smoothly. Join our server today to know more about premium link: https://discord.gg/nyrtdtf</p>
 				</body>
 </head>
 </html>
